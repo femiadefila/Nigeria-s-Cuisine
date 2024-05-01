@@ -112,7 +112,7 @@ section{
  font-size: 20px;
  font-weight: 600;
  letter-spacing: -1px;
- font-family: 'lobster', cursive;
+ font-family: poppins 'sanserif';
  margin-top: 17px;
 }
 
@@ -202,7 +202,7 @@ section{
 }
 
 .special__container .section__header{
-  font-family: 'lobster', cursive;
+  font-family: poppins 'sanserif';
   color: #cc3333;
   transition: all 0.7s ease;
 }
@@ -251,7 +251,7 @@ section{
   letter-spacing: -2px;
   font-weight: 700;
   color: #cc3333;
-  font-family: 'lobster', cursive;
+  font-family: poppins 'sanserif';
 }
 
 .special__card p{
@@ -301,11 +301,11 @@ section{
 .testimonials {
   text-align: center;
   color: #cc3333;
-  font-family: 'lobster', cursive;
+  font-family: poppins 'sanserif';
 }
 
 .testimonials h1{
-  font-family: 'lobster', cursive;
+  font-family: poppins 'sanserif';
   margin-bottom: 40px;
 }
 
@@ -333,7 +333,7 @@ section{
 .container__right h1 {
   margin-bottom: 1rem;
   font-size: 22px;
-  font-family: 'lobster', cursive;
+  font-family: poppins 'sanserif';
   color: #cc3333;
   letter-spacing: -1px;
 }
