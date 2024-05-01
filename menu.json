@@ -1,0 +1,68 @@
+[
+ {
+   "name": "African Beef Stew🥩🍲",
+   "image": "images/menu1.png",
+   "description": "A hearty dish simmered to perfection, blending tender beef 🐄 with vibrant spices 🌶️ and rich tomato sauce 🍅",
+   "price": "₦3000",
+   "rating": "★★★★☆"
+ },
+ {
+   "name": "Chicken Vegetable😋🥕",
+   "image": "images/menu2.png",
+   "description": "ndulge in our savory chicken vegetable dish 🍗🥦, where tender chicken meets fresh, crisp vegetables for a delightful experience.",
+   "price": "₦4000",
+   "rating": "★★★★★"
+ },
+ {
+   "name": "Caesar Salad🍗🥦",
+   "image": "images/menu3.png",
+   "description": "Crisp romaine lettuce tossed with Caesar dressing, croutons, and Parmesan cheese.Seasoned with wateleaf and vegetable",
+   "price": "₦4500",
+   "rating": "★★★★½"
+ },
+
+ {
+  "name": "Vegetable Soup🥣",
+  "image": "images/menu4.png",
+  "description": "A wholesome blend of fresh veggies and aromatic herbs. Dive into a bowl of nourishing goodness that will soothe your soul and tantalize your taste buds! 🍲😋",
+  "price": "₦6000",
+  "rating": "★★★★☆"
+},
+{
+  "name": "Egusi Soup🍲",
+  "image": "images/special3.png",
+  "description": "A traditional Nigerian dish bursting with hearty goodness! Made with ground melon seeds, leafy greens, and aromatic spices",
+  "price": "₦4500",
+  "rating": "★★★★★"
+},
+{
+  "name": "White Soup 🍲",
+  "image": "images/menu5.png",
+  "description": "A Nigerian delicacy that combines succulent pieces of meat, aromatic spices, and rich broth for a truly unforgettable dining experience! ",
+  "price": "₦3500",
+  "rating": "★★★★½"
+},
+
+{
+  "name": "Harmburger 🍔",
+  "image": "images/menu6.png",
+  "description": "Sink your teeth into a juicy patty topped with fresh veggies, melted cheese, and tangy sauces, all nestled between soft buns😋🍔",
+  "price": "₦3000",
+  "rating": "★★★★☆"
+},
+{
+  "name": "Spicy Chicken🌶️🍗",
+  "image": "images/menu9.jpeg",
+  "description": "Savor the succulent, tender chicken pieces seasoned with an irresistible blend of spices that ignite your taste buds with every bite🍗.",
+  "price": "₦1000",
+  "rating": "★★★"
+},
+{
+  "name": "Doughnuts🍩✨",
+  "image": "images/menu10.png",
+  "description": "Indulge in the soft, fluffy texture of our freshly baked treats with a perfect layer of glaze for a burst of sweetness in every bite😋🍩",
+  "price": "₦2000",
+  "rating": "★★★★½"
+}
+ 
+]
