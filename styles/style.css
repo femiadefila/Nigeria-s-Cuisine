@@ -301,7 +301,6 @@ section{
   text-align: center;
   color: #cc3333;
   font-family: poppins 'sanserif';
-  overflow-x: hidden;
 }
 
 .testimonials h1{
@@ -312,7 +311,7 @@ section{
 .testimonial-container {
   max-width: 100%;
   margin: auto;
-  padding: 10px;
+  padding: 15px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 1rem;
@@ -533,9 +532,7 @@ ul {
   height: auto;
 }
 
-.container__left{
-  padding-left: 78px;
-}
+
 
 
 
@@ -558,7 +555,11 @@ ul {
   padding: 10px;
 }
 
+/* .card {
+  padding: 15px;
+  display: flex;
 
+} */
 }
 
 @media(max-width:1140px){
