@@ -361,6 +361,8 @@ section{
 .container__left {
   display: grid;
   gap: 2rem;
+  padding-right: 40px;
+  margin-right: 10px;
 }
 
 .card {
@@ -555,11 +557,10 @@ ul {
   padding: 10px;
 }
 
-/* .card {
-  padding: 15px;
-  display: flex;
-
-} */
+.container__left {
+  padding-right: 40px;
+  mar
+}
 }
 
 @media(max-width:1140px){
